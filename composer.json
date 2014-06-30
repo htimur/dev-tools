@@ -1,8 +1,7 @@
 {
     "name": "tirendo/dev-tools",
+    "type": "library",
     "description": "Development tools",
-    "minimum-stability": "dev",
-    "license": "proprietary",
     "authors": [
         {
             "name": "Timur Khamrakulov",
