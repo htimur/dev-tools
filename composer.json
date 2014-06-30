@@ -1,0 +1,12 @@
+{
+    "name": "tirendo/dev-tools",
+    "description": "Development tools",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Timur Khamrakulov",
+            "email": "timur.khamrakulov@tirendo.com"
+        }
+    ]
+}
